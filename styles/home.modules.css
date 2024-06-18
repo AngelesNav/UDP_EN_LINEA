@@ -44,3 +44,12 @@
   margin-right: 10px;
   vertical-align: middle;
 }
+.category-item {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  flex: 1 1 100px; /* Ajusta este valor según tus necesidades */
+  max-width: 200px;
+}
